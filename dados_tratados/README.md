@@ -1,0 +1,1 @@
+Base utilizada: Default of Credit Card Clients, UCI Machine Learning Repository. Dados históricos de 30.000 clientes de cartão de crédito em Taiwan, referentes a 2005. Arquivo CSV preparado para importação no SQLite.
